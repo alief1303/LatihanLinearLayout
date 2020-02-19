@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Latihan</string>
+    <string name="kitkat">Kitkat</string>
+    <string name="button">Button</string>
+    <string name="pilih_android">Pilih Android</string>
+    <string name="oreo">Oreo</string>
+    <string name="hallo_kawan">Hallo Kawan</string>
+    <string name="sandwich">Sandwich</string>
+</resources>
